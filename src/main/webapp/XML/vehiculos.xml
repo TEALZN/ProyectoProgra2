@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<vehiculos>
+    
+    <vehiculo id="1">
+        <placa>ABC123</placa>
+        <color>Rojo</color>
+        <marca>Toyota</marca>
+        <estilo>Sedan</estilo>
+        <anio>2020</anio>
+        <vin>1HGCM82633A123456</vin>
+        <cilindraje>2000</cilindraje>
+        <clienteId>1</clienteId>
+    </vehiculo>
+    
+    <vehiculo id="2">
+        <placa>XYZ789</placa>
+        <color>Azul</color>
+        <marca>Honda</marca>
+        <estilo>SUV</estilo>
+        <anio>2019</anio>
+        <vin>5XYZH4AG4JH123456</vin>
+        <cilindraje>1800</cilindraje>
+        <clienteId>2</clienteId>
+    </vehiculo>
+    
+</vehiculos>
+

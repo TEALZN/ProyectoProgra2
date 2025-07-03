@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+<DetallesOrden>
+  <Detalle id="1" tipo="REPUESTO">
+    <ordenId>1001</ordenId>
+    <cantidad>2</cantidad>
+    <observaciones>Repuesto original</observaciones>
+    <repuestoId>501</repuestoId>
+    <nombreRepuesto>Filtro de aceite</nombreRepuesto>
+    <precioUnitario>25.99</precioUnitario>
+    <pedido>true</pedido>
+  </Detalle>
+  <Detalle id="2" tipo="SERVICIO">
+    <ordenId>1001</ordenId>
+    <cantidad>1</cantidad>
+    <observaciones>Cambio de aceite</observaciones>
+    <servicioId>201</servicioId>
+    <descripcionServicio>Cambio de aceite y filtro</descripcionServicio>
+    <costoManoObra>35.50</costoManoObra>
+  </Detalle>
+</DetallesOrden>
+
+

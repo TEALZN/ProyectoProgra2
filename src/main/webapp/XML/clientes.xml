@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+<Clientes>
+    <Cliente id="1">
+        <numeroIdentificacion>123456789</numeroIdentificacion>
+        <nombre>Juan</nombre>
+        <primerApellido>Pérez</primerApellido>
+        <segundoApellido>Gómez</segundoApellido>
+        <telefonoFijo>22222222</telefonoFijo>
+        <telefonoCelular>88888888</telefonoCelular>
+        <direccion>San José, Costa Rica</direccion>
+        <email>juan@example.com</email>
+    </Cliente>
+    <Cliente id="2">
+        <numeroIdentificacion>987456321</numeroIdentificacion>
+        <nombre>Pablo</nombre>
+        <primerApellido>Salas</primerApellido>
+        <segundoApellido>Trejos</segundoApellido>
+        <telefonoFijo>66666666</telefonoFijo>
+        <telefonoCelular>44444444</telefonoCelular>
+        <direccion>Heredia, Costa Rica</direccion>
+        <email>pablo@example.com</email>
+    </Cliente>
+</Clientes>
+
